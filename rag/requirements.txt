@@ -1,0 +1,6 @@
+Flask
+transformers
+faiss-cpu
+torch
+datasets
+sentence-transformers
